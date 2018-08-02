@@ -1,6 +1,6 @@
 # PixieBoard 9 Axis
 
-This script show how to enable and read sensor values from the Accelerometer, Magnetometer and Gyroscope on your PixieBoard.
+This script shows how to enable and read sensor values from the Accelerometer, Magnetometer and Gyroscope on your PixieBoard.
 
 You can find more information in this [tutorial](https://medium.com/pixieboard/access-the-9-axis-imu-on-your-pixieboard-9216cb2ca7cf) and to read more about PixieBoard, follow us on [Medium](https://medium.com/pixieboard).
 
